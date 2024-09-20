@@ -46,7 +46,7 @@ Students enrolling in this course should have prior knowledge of:
 
 ## Course Outline
 
-### Module 1: Advanced AI Systems
+### [Module 1: Advanced AI Systems](https://github.com/Hamas-ur-Rehman/Building-Modern-Systems-Theory-and-Implementation/tree/main/Module%201%20-%20Advanced%20AI%20Systems) 
 
 - **Theory:**
   - Introduction to Advanced AI systems
