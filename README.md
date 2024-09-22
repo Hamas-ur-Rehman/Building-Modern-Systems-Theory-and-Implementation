@@ -46,7 +46,7 @@ Students enrolling in this course should have prior knowledge of:
 
 ## Course Outline
 
-### Module 1: Advanced AI Systems
+### [Module 1: Advanced AI Systems](https://github.com/Hamas-ur-Rehman/Building-Modern-Systems-Theory-and-Implementation/tree/main/Module%201%20-%20Advanced%20AI%20Systems) 
 
 - **Theory:**
   - Introduction to Advanced AI systems
@@ -165,6 +165,5 @@ Students enrolling in this course should have prior knowledge of:
 
 ## Instructor
 
-**Hamas ur Rehman** is a visiting faculty member at UET Peshawar, specializing in computational intelligence and modern system implementation. With extensive experience in AI-driven technologies and system design, Hamas brings a wealth of knowledge and practical insights to the course, ensuring that students gain both theoretical understanding and hands-on experience.
-
+**Hamas ur Rehman** is a visiting faculty member at UET Peshawar, specializing in computational intelligence and modern system implementation. With extensive experience in AI-driven technologies and system design.
 ---

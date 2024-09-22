@@ -128,13 +128,7 @@ By the end of this lecture, students will be able to:
 
 ## Assignments and Activities
 
-1. **Reading Assignment:**
-   - Read Chapters 1-3 from *Artificial Intelligence: A Modern Approach*.
-
-2. **Research Activity:**
-   - Write a short essay on the impact of AI in a specific industry of your choice.
-
-3. **Discussion Prompt:**
+1. **Discussion Prompt:**
    - Discuss the potential ethical challenges associated with advanced AI systems and propose possible solutions.
 
 ---
@@ -155,7 +149,6 @@ By the end of this lecture, students will be able to:
 
 - **Preparation for Next Lecture:**
   - Review the basics of Generative AI and Large Language Models (LLMs).
-  - Familiarize yourself with case studies involving LLMs.
 
 - **Office Hours:**
   - Available for additional support and questions outside of lecture hours.
