@@ -53,7 +53,7 @@ Students enrolling in this course should have prior knowledge of:
   - Overview of AI technologies and applications
   - Evolution of AI systems
 
-### Module 2: Generative AI and Large Language Models (LLMs)
+### [Module 2: Generative AI and Large Language Models (LLMs)](https://github.com/Hamas-ur-Rehman/Building-Modern-Systems-Theory-and-Implementation/tree/main/Module%202%20-%20Generative%20AI%20and%20Large%20Language%20Models%20(LLMs))
 
 - **Theory:**
   - Introduction to Generative AI
