@@ -163,7 +163,4 @@ Students enrolling in this course should have prior knowledge of:
 
 ---
 
-## Instructor
 
-**Hamas ur Rehman** is a visiting faculty member at UET Peshawar, specializing in computational intelligence and modern system implementation. With extensive experience in AI-driven technologies and system design.
----
