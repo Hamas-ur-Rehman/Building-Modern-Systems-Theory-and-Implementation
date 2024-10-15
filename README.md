@@ -62,7 +62,7 @@ Students enrolling in this course should have prior knowledge of:
 - **Practical:**
   - Case Study: Analyzing a project with integrated LLM (e.g., InstantAlfred on Insurancemarket.ae)
 
-### Module 3: APIs – Theory and Practical Implementation
+### [Module 3: APIs – Theory and Practical Implementation](https://github.com/Hamas-ur-Rehman/Building-Modern-Systems-Theory-and-Implementation/tree/main/Module%203%20-%20APIs%20Theory%20and%20Practical%20Implementation)
 
 - **Theory:**
   - Introduction to APIs and their importance
