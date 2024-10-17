@@ -72,7 +72,7 @@ Students enrolling in this course should have prior knowledge of:
   - Implementing APIs in Python
   - Creating and testing APIs using Postman
 
-### Module 4: Building a Chatbot with LLMs
+### [Module 4: Building a Chatbot with LLMs](https://github.com/Hamas-ur-Rehman/Building-Modern-Systems-Theory-and-Implementation/tree/main/module%204)
 
 - **Theory:**
   - Components of a chatbot
